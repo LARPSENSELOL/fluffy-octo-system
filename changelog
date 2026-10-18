@@ -1,3 +1,11 @@
-TIME_AGO=16/10/2026 16:55
-CHANGELOG{ Major update 16/10/2026
-Loader updated; not the external.}
+TIME_AGO=18/10/2026 16:08
+CHANGELOG{ Major update 18/10/2026
+Loader updated; not the external.
++ Added ctrl + a and selector in form login
++ Added an pfp fix (temporaly >forum issue<)
++ Added External Loader Integrity (not final external)
++ Added Social Media (Twitter,Telegram,Discord)
++ Added Resolution Support Help
+- Removed Fake Icons TG,X,DC
+- Removed Animation on icons
+- Removed text in form}
